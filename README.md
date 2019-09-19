@@ -1,4 +1,4 @@
-# DEPLOYING-A-MODEL AND STACKING
+# DEPLOYING-A-MODEL AND STACKING AND NLP BASICS
 
 Data science project also have a lifetime or stages:
 step1:Understanding the problem
